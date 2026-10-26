@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>CACME Rounds</title>
+  <link>https://c97719870.github.io/cacme-podcast/</link>
+  <atom:link href="https://c97719870.github.io/cacme-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-ca</language>
+  <description>A private weekly conversation about one physician's CME feed. Not medical advice; not for distribution.</description>
+  <itunes:author>CACME</itunes:author>
+  <itunes:image href="https://c97719870.github.io/cacme-podcast/cover.jpg"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
+  <lastBuildDate>Mon, 26 Oct 2026 17:05:00 +0000</lastBuildDate>
+  <!-- EPISODES (newest first) -->
+  <item>
+    <title>Episode 0 — Test: Halifax weather</title>
+    <description>A 30-second voice test of Liz, Mark and Maggie.</description>
+    <enclosure url="https://c97719870.github.io/cacme-podcast/episodes/000-test.mp3" length="500340" type="audio/mpeg"/>
+    <guid isPermaLink="false">cacme-000-test</guid>
+    <pubDate>Mon, 26 Oct 2026 17:05:00 +0000</pubDate>
+    <itunes:duration>31</itunes:duration>
+  </item>
+</channel>
+</rss>
