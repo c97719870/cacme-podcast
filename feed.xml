@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>CACME Rounds</title>
   <link>https://c97719870.github.io/cacme-podcast/</link>
@@ -11,8 +11,19 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
-  <lastBuildDate>Mon, 26 Oct 2026 17:05:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 14:03:03 +0000</lastBuildDate>
   <!-- EPISODES (newest first) -->
+  <item>
+    <title>Week of October 26, 2026 — EPCAT III: aspirin alone after hip or knee arthroplasty (pilot)</title>
+    <description>Pilot episode: Liz, Mark and Maggie on the Halifax-led EPCAT III trial (aspirin alone non-inferior to rivaroxaban-then-aspirin after arthroplasty), the week&#x27;s headlines — Hypertension Canada 2025, SODa-BIC, Hydra, the AGA C. diff update, NHS-Galleri — and a one-question quiz.</description>
+    <content:encoded><![CDATA[Pilot episode: Liz, Mark and Maggie on the Halifax-led EPCAT III trial (aspirin alone non-inferior to rivaroxaban-then-aspirin after arthroplasty), the week's headlines — Hypertension Canada 2025, SODa-BIC, Hydra, the AGA C. diff update, NHS-Galleri — and a one-question quiz.<br><br>Segment: Shivakumar S, Matino D, Zukor D, et al. Rivaroxaban then aspirin vs. aspirin alone after total hip or knee arthroplasty (EPCAT III). N Engl J Med, published online July 12, 2026. doi:10.1056/NEJMoa2603649 (correction: N Engl J Med 2026;395:728). Digest card: https://claude.ai/artifact/6xnFzaohkVktcRSN57WB4s (week of October 26, 2026 — epcat-iii-2026).<br>Mentioned in the intro: Hypertension Canada 2025 (CMAJ 2025;197:E549); SODa-BIC (N Engl J Med 2026;395:1062); Hydra (JAMA 2026, doi 10.1001/jama.2026.13384); AGA C. difficile clinical practice update (Clin Gastroenterol Hepatol 2026;24:2359); NHS-Galleri (N Engl J Med 2026;395:1374).<br>Mark's sources: none this episode — the Journal Watch review was behind the subscriber wall, the editorial and expert commentary were not opened; all speculation labelled "total guess here".<br>Quiz answer: hypertension = BP ≥130/80 mm Hg (validated device, standardised method); target systolic <130 mm Hg if tolerated (Hypertension Canada 2025).]]></content:encoded>
+    <enclosure url="https://c97719870.github.io/cacme-podcast/episodes/001-2026-10-26.mp3" length="4979107" type="audio/mpeg"/>
+    <guid isPermaLink="false">cacme-001</guid>
+    <pubDate>Sat, 31 Oct 2026 14:03:03 +0000</pubDate>
+    <itunes:duration>622</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Episode 0 — Test: Halifax weather</title>
     <description>A 30-second voice test of Liz, Mark and Maggie.</description>
