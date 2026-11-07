@@ -11,8 +11,19 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
-  <lastBuildDate>Sat, 31 Oct 2026 14:03:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 19:05:35 +0000</lastBuildDate>
   <!-- EPISODES (newest first) -->
+  <item>
+    <title>Week of November 2, 2026 — the 2026 AHA/ACC pulmonary embolism guideline, and ICRAKI (first full episode)</title>
+    <description>Two segments: the AHA/ACC acute PE guideline&#x27;s five clinical categories (and Kate&#x27;s LMWH-lead-in question answered by category), then ICRAKI — intermittent haemodialysis vs CRRT as the first renal replacement in ICU AKI, stopped early for higher mortality with intermittent. Intro: ADA/EASD 2026 type 2 and type 1 diabetes consensus reports, carvedilol in cirrhosis, tozorakimab for COPD, a Halifax co-author on the AVERT post hoc, flu season week 43. Quiz on the type 2 consensus.</description>
+    <content:encoded><![CDATA[Two segments: the AHA/ACC acute PE guideline's five clinical categories (and Kate's LMWH-lead-in question answered by category), then ICRAKI — intermittent haemodialysis vs CRRT as the first renal replacement in ICU AKI, stopped early for higher mortality with intermittent. Intro: ADA/EASD 2026 type 2 and type 1 diabetes consensus reports, carvedilol in cirrhosis, tozorakimab for COPD, a Halifax co-author on the AVERT post hoc, flu season week 43. Quiz on the type 2 consensus.]]></content:encoded>
+    <enclosure url="https://c97719870.github.io/cacme-podcast/episodes/002-2026-11-02.mp3" length="8836220" type="audio/mpeg"/>
+    <guid isPermaLink="false">cacme-002</guid>
+    <pubDate>Sat, 07 Nov 2026 19:05:35 +0000</pubDate>
+    <itunes:duration>1104</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Week of October 26, 2026 — EPCAT III: aspirin alone after hip or knee arthroplasty (pilot)</title>
     <description>Pilot episode: Liz, Mark and Maggie on the Halifax-led EPCAT III trial (aspirin alone non-inferior to rivaroxaban-then-aspirin after arthroplasty), the week&#x27;s headlines — Hypertension Canada 2025, SODa-BIC, Hydra, the AGA C. diff update, NHS-Galleri — and a one-question quiz.</description>
